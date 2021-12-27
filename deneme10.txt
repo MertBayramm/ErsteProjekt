@@ -2,6 +2,7 @@ sadad
 
 bbbbbbbbbb
 
+<<<<<<< HEAD
 loginbranch vol1
  loginbranch vol2
 loginbranch vol3
@@ -9,3 +10,8 @@ main branch vol4
 main branch vol5
 main branch vol7
 maijnkjchsd
+=======
+mapbranch vol6
+mapbranc vol8
+mapbranc vol9
+>>>>>>> origin/mapbranch
